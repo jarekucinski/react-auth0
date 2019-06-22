@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Check and see [Securing React Apps with Auth0 Course on Pluralsight](https://app.pluralsight.com/library/courses/react-auth0-authentication-security/table-of-contents).
+Check and see [Securing React Apps with Auth0](https://app.pluralsight.com/library/courses/react-auth0-authentication-security/table-of-contents) course on Pluralsight.
 
 Integrated with [Auth0](https://auth0.com/) a universal authentication & authorization platform for web, mobile and legacy applications.
 
