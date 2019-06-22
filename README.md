@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 Check and see [Securing React Apps with Auth0 Course on Pluralsight](https://app.pluralsight.com/library/courses/react-auth0-authentication-security/table-of-contents).
+
 Integrated with [Auth0](https://auth0.com/) a universal authentication & authorization platform for web, mobile and legacy applications.
 
 # React-Auth0
@@ -8,11 +10,11 @@ This is a React Router based application for navigation and page authorization b
 
 # What I Learned
 
-- Configure Auth0 authentication provider to React app
+- Configure Auth0 authentication provider to React app.
 - Connect via Auth0 to authentication providers like Google Facebook to login and fetch user profile data.
-- React Router for page navigation basing on user authentication and authorization
-- React Context to share data across application
-- Using session storage
+- React Router for page navigation that bases on user authentication and authorization rights.
+- React Context to share data across application.
+- Using session storage.
 
 ## Available Scripts
 
