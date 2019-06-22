@@ -11,7 +11,7 @@ This is a React Router based application for navigation and page authorization b
 # What I Learned
 
 - Configure Auth0 authentication provider to React app.
-- Connect via Auth0 to authentication providers like Google Facebook to login and fetch user profile data.
+- Connect via Auth0 to authentication providers like Google and Facebook to login and fetch user profile data.
 - React Router for page navigation that bases on user authentication and authorization rights.
 - React Context to share data across application.
 - Using session storage.
